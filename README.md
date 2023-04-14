@@ -16,7 +16,7 @@
 7) `npm run prod`
 > This script cleans, build for production and opens static express server in wwwroot folder
 
-## Sript files
+## Script files
 * `scripts/build_ssg.mjs` - has js entries that compile to html
 > Entries must be imported manually
 
